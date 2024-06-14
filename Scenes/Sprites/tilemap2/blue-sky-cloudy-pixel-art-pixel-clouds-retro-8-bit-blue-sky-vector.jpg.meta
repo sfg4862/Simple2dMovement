@@ -1,0 +1,1192 @@
+fileFormatVersion: 2
+guid: 64a68e08994c14344ab2718d9161b212
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceba9b0c0dcc87d478e1c0f6cea248d6
+      internalID: -450442989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe76558cf6602243a0bacdf09668547
+      internalID: -1288823833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34bfc84d75257e4097f1d91d1bedda8
+      internalID: 948935508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e3ad29839913a4e97041307accf887
+      internalID: -1902087913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e84b6d11cbe554792c85987e410486
+      internalID: 665353001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53e75efba6d2b048b0adfffa41434d9
+      internalID: -1884242710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9dc307fbf740446a6313a9b43bb024
+      internalID: 1924922017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc2f0af84e30e54dbbaaa92955f2fdd
+      internalID: -1802641272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eda85162a0a1948a4d8d952f702372
+      internalID: 776068486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084ecfd8f9b992043ad52bed8a78ef8d
+      internalID: -1700251816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120c5f55dd1770d41af19d9cb667cd0b
+      internalID: -1765258314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbee8972e337064889d65d78a55f15e
+      internalID: -628063083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd2b8a641b993d45a9e648e018a5159
+      internalID: -223781077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fa7777fb7d18c4d876f73eb881af61
+      internalID: 592613263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4e9f243d71fcf45a2213bcd166131e
+      internalID: 1663585932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584269dcb1c3337479be209c8809a465
+      internalID: -1198806711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0b8933fb9027d43a2a09df118ae073
+      internalID: 2059110528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e886d75d89b804d9fff55f03edbb64
+      internalID: -1393698828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1152
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc6dd5be34884f419a90a9649279048
+      internalID: 1810265395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1152
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac220e20259c52488b12ce3b827965b
+      internalID: -377387893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1152
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4327c866ca2718a418601a7c9f1061b2
+      internalID: -1497722196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaf91867f7865445b78213751d35756
+      internalID: -1580107822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894ccbaf67004df48b520b9d345d6340
+      internalID: 1207656245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0425d74993874de42b00622e8a477025
+      internalID: 364358403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30b18bdcb1cf6b479458a559df1d747
+      internalID: 997005991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a353a6edc5c99e4b85369d7433c3649
+      internalID: 801526830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b17c09c9b1262499a2b71cbafebd5b
+      internalID: 704199468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603dcb55a1ebf934c97645896a81bd50
+      internalID: 326732126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea0fcc45ea477246a4b1ca628515a24
+      internalID: -939762462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8552f87ca6062e3468336717b77fb475
+      internalID: 1332910343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a106a54ac7ef124180588ab1bb395f3
+      internalID: -438258789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ea9ce5f23229c4a950200cfb1b168a
+      internalID: 1805749589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018038abeca8c0f40a7a28570f8553d4
+      internalID: 1683406110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b32e800041d8674ab3f32c7a664f307
+      internalID: 315845872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871fc149e2aa2fe478b8f356406808b3
+      internalID: -58116767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb703238cd35a04d8f90ffe88d852e6
+      internalID: -1409516098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591fd6e9f46228746ba0f3d41551c89f
+      internalID: 1226035169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b564a7ac44264e4aa48638093bfbc88
+      internalID: -90582569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eeff52412077c4e80fd4e8e5fa9b90
+      internalID: 1698048056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f09ed997926a34f801530ad8567a77
+      internalID: 1615517874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a674ebcb46a9a14fb00e9f193bdfd50
+      internalID: -88148439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_41
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fffcda96021194fb7eb30faa4eb36b
+      internalID: -650401548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b553840bbce14440a590a9b92268d54
+      internalID: 1271319237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3b77a11d1fdf04e8a1dc95092e9b35
+      internalID: -568883031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a55e82f19db7d449119764f1f872c9
+      internalID: -1744798746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa6566daf41a6f48be23ec192b47604
+      internalID: -958961627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_46
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11bc56e4765f6b4586754e96685fc9b
+      internalID: -1087778108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefa76fabc898154e99c7eb203cd65fc
+      internalID: -1719570706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d20451fd972494c86822fbf9b3e9dc
+      internalID: 182370175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_0: -450442989
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_1: -1288823833
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_10: -1765258314
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_11: -628063083
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_12: -223781077
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_13: 592613263
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_14: 1663585932
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_15: -1198806711
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_16: 2059110528
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_17: -1393698828
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_18: 1810265395
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_19: -377387893
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_2: 948935508
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_20: -1497722196
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_21: -1580107822
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_22: 1207656245
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_23: 364358403
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_24: 997005991
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_25: 801526830
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_26: 704199468
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_27: 326732126
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_28: -939762462
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_29: 1332910343
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_3: -1902087913
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_30: -438258789
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_31: 1805749589
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_32: 1683406110
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_33: 315845872
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_34: -58116767
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_35: -1409516098
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_36: 1226035169
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_37: -90582569
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_38: 1698048056
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_39: 1615517874
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_4: 665353001
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_40: -88148439
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_41: -650401548
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_42: 1271319237
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_43: -568883031
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_44: -1744798746
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_45: -958961627
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_46: -1087778108
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_47: -1719570706
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_48: 182370175
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_5: -1884242710
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_6: 1924922017
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_7: -1802641272
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_8: 776068486
+      blue-sky-cloudy-pixel-art-pixel-clouds-retro-8-bit-blue-sky-vector_9: -1700251816
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
